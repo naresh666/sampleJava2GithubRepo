@@ -6,6 +6,7 @@ public class SampleClass {
 		// TODO Auto-generated method stub
 		System.out.println("please cooperate git");
 		System.out.println("please cooperate git");
+		System.out.println("please cooperate git");
 
 	}
 
